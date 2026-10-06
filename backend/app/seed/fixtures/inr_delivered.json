@@ -1,0 +1,7 @@
+{
+  "scenario": "item_not_received_but_delivered",
+  "dispute": { "reason": "MERCHANDISE_OR_SERVICE_NOT_RECEIVED", "amount": "89.00", "currency": "USD" },
+  "order": { "item_name": "Handmade ceramic mug set", "item_cost": "32.00" },
+  "shipment": { "carrier": "DHL", "tracking_number": "SIM123456789", "status": "DELIVERED", "delivered_days_before_dispute": 6 },
+  "messages": ["Buyer: I never got my package."]
+}

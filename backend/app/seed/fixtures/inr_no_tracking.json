@@ -1,0 +1,7 @@
+{
+  "scenario": "item_not_received_no_tracking",
+  "dispute": { "reason": "MERCHANDISE_OR_SERVICE_NOT_RECEIVED", "amount": "24.00", "currency": "USD" },
+  "order": { "item_name": "Phone case", "item_cost": "6.00" },
+  "shipment": null,
+  "messages": ["Buyer: Still waiting for my order."]
+}

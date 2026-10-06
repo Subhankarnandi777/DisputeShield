@@ -1,0 +1,7 @@
+{
+  "scenario": "unauthorized_transaction",
+  "dispute": { "reason": "UNAUTHORISED", "amount": "310.00", "currency": "USD" },
+  "order": { "item_name": "Wireless headphones", "item_cost": "150.00" },
+  "shipment": { "carrier": "UPS", "tracking_number": "SIM555000111", "status": "DELIVERED", "delivered_days_before_dispute": 10 },
+  "messages": ["Buyer: I did not make this purchase."]
+}

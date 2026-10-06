@@ -1,0 +1,7 @@
+{
+  "scenario": "not_as_described",
+  "dispute": { "reason": "MERCHANDISE_OR_SERVICE_NOT_AS_DESCRIBED", "amount": "140.00", "currency": "USD" },
+  "order": { "item_name": "Vintage leather bag", "item_cost": "60.00" },
+  "shipment": { "carrier": "FedEx", "tracking_number": "SIM987654321", "status": "DELIVERED", "delivered_days_before_dispute": 3 },
+  "messages": ["Buyer: Colour is different from the photos."]
+}
